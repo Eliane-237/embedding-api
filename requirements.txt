@@ -1,7 +1,6 @@
-setuptools
+setuptools>=65
 wheel
 build
-
 absl-py==1.4.0
 annotated-types==0.7.0
 anyio==4.8.0
